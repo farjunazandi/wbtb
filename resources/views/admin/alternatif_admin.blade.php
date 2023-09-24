@@ -1,7 +1,7 @@
 @include('admin/partials/header')
 @include('admin/partials/sidebar')
 
-  <!-- Content Wrapper. Contains page content -->
+  <!-- Content Wrapper. Contains page contents -->
   <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
